@@ -1,8 +1,8 @@
 # CodeJungle: the team behind LiteTMS
 
-<a href="https://litetms.eu/en/"><img src="https://litetms.eu/img/logo/lite_512.png" alt="LiteTMS, a transport management system (TMS) for road carriers and freight forwarders" width="160"></a>
+<a href="https://litetms.eu/"><img src="https://litetms.eu/img/logo/lite_512.png" alt="LiteTMS, a transport management system (TMS) for road carriers and freight forwarders" width="160"></a>
 
-CodeJungle is a Polish software house. We have been building software for transport companies since 2017, and today most of our work goes into **[LiteTMS](https://litetms.eu/en/)**.
+CodeJungle is a Polish software house. We have been building software for transport companies since 2017, and today most of our work goes into **[LiteTMS](https://litetms.eu/)**.
 
 ## What is LiteTMS?
 
@@ -69,7 +69,7 @@ LiteTMS is live. We currently set up each workspace together with the customer, 
 
 ## Get in touch
 
-- LiteTMS: [litetms.eu](https://litetms.eu/en/) · [contact@litetms.eu](mailto:contact@litetms.eu)
+- LiteTMS: [litetms.eu](https://litetms.eu/) · [contact@litetms.eu](mailto:contact@litetms.eu)
 - Company: [codejungle.pl](https://codejungle.pl) · [hello@codejungle.pl](mailto:hello@codejungle.pl)
 
 CodeJungle Sp. z o. o., Kawki 51, 42-140 Panki, Poland. NIP 5742064222, KRS 0000722231.
